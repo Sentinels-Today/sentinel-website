@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 
 export const metadata: Metadata = {
-  title: "Sentinel Labs — Trust infrastructure for autonomous machines",
+  title: "Sentinels — Trust infrastructure for autonomous machines",
   description:
-    "Sentinel Labs is the trust layer for robots. Identity, attestation, telemetry, and verifiable audit, built for autonomous systems.",
+    "Sentinels is the trust layer for robots. Identity, attestation, telemetry, and verifiable audit, built for autonomous systems.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

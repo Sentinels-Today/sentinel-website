@@ -105,7 +105,7 @@ export default function HomePage() {
       </section>
 
       <footer style={{ borderTop: "1px solid #262626", paddingTop: 24, color: "#737373" }}>
-        Apache-2.0 — © Sentinel Labs.
+        Apache-2.0 — © Sentinels.
       </footer>
     </div>
   );

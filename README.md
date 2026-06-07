@@ -1,6 +1,6 @@
 # sentinel-website
 
-**Marketing site for Sentinel Labs.** Single-page Next.js 14 static site with the headline, the ecosystem grid, and links to the rest of the org.
+**Marketing site for Sentinels.** Single-page Next.js 14 static site with the headline, the ecosystem grid, and links to the rest of the org.
 
 [![ci](https://github.com/Sentinels-Today/sentinel-website/actions/workflows/ci.yml/badge.svg)](https://github.com/Sentinels-Today/sentinel-website/actions/workflows/ci.yml)
 ![license](https://img.shields.io/badge/license-Apache--2.0-blue)
